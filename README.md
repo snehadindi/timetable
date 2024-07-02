@@ -4,17 +4,6 @@
 
 This project is a simple HTML-based timetable for a class schedule. It includes information about class timings, subjects, and other relevant details. This project is ideal for beginners learning HTML and CSS.
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Setup](#setup)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
 ## Features
 
 - Simple and clean HTML structure
